@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "569217851695",
+    "project_id": "daawatok-app",
+    "storage_bucket": "daawatok-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569217851695:android:092df2682437199ded81da",
+        "android_client_info": {
+          "package_name": "com.mnsr.daawatok"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFfx2oQ2D2tL3f0iUwZ26wRGfGE8flCSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
